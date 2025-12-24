@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=X,RESOLUTION=X
+#EXT-X-STREAM-INF:BANDWIDTH=0,RESOLUTION=0
 http://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/http/format/applehttp_to_mc/a.m3u8
