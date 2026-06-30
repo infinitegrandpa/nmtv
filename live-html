@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Stream selector</title>
+</head>
+<body>
+  <h2>Reproductor</h2>
+
+  <button onclick="play1()">Canal 1</button>
+
+  <script>
+    function play1() {
+      window.location.href =
+        "https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/format/applehttp/.m3u8";
+    }
+  </script>
+</body>
+</html>
